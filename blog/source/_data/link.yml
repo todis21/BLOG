@@ -1,0 +1,73 @@
+- class_name: 友情链接
+  class_desc: 良师益友
+  link_list:
+    - name: caddy
+      link: https://caddyetui.github.io
+      avatar: http://q1.qlogo.cn/g?b=qq&nk=1846737201&s=640
+      descr: 小小盒子
+    - name: Sapphire
+      link: https://blog.csdn.net/Sapphire037
+      avatar: http://q1.qlogo.cn/g?b=qq&nk=740608748&s=640
+      descr: Web+Misc巨佬
+    - name: pyh
+      link: https://sf2333.github.io/
+      avatar: http://q1.qlogo.cn/g?b=qq&nk=761439727&s=640
+      descr: Pwn手
+    - name: SNCKER
+      link: https://sncker.github.io/
+      avatar: http://q1.qlogo.cn/g?b=qq&nk=948375961&s=640
+      descr: Web爷
+    - name: c1everf0x
+      link: https://c1everf0x.github.io/
+      avatar: http://q1.qlogo.cn/g?b=qq&nk=1160118161&s=640
+      descr: 考研党
+    - name: lktop
+      link: https://www.cnblogs.com/lktop/
+      avatar: http://q1.qlogo.cn/g?b=qq&nk=1277843354&s=640
+      descr: 小豆子爸爸
+    - name: lnjoy
+      link: https://www.cnblogs.com/lnjoy/
+      avatar: http://q1.qlogo.cn/g?b=qq&nk=1766198704&s=640
+      descr: 密码学大师
+    - name: sivona
+      link: https://sivona.top/
+      avatar: http://q1.qlogo.cn/g?b=qq&nk=1323551395&s=640
+      descr: 贯石斧
+    - name: 好想能做梦
+      link: https://blog.csdn.net/wlllllianqing
+      avatar: http://q1.qlogo.cn/g?b=qq&nk=1622913224&s=640
+      descr: web手
+
+
+- class_name: 大佬
+  class_desc: 其他大佬的博客
+  link_list:
+    - name: 广科大——南方
+      link: https://www.wlhhlc.top/
+      avatar: http://q1.qlogo.cn/g?b=qq&nk=1456571752&s=640
+      descr: 
+    - name: 不知名大佬
+      link: https://www.k0rz3n.com/
+      avatar: https://img-blog.csdnimg.cn/20200410131248719.jpg?x-oss-process=image/resize,m_fixed,h_224,w_224
+      descr:
+    - name: phith0n
+      link: https://www.leavesongs.com/
+      avatar: https://c-ssl.duitang.com/uploads/item/201403/16/20140316180413_s5SNz.jpeg
+      descr: p神
+
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: Weibo
+      link: https://www.weibo.com/
+      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      descr: 中国最大社交分享平台
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平台
